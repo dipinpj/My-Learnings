@@ -1,9 +1,12 @@
 # My-Learnings
 
 Image placeholder with text, custom font, size etc
+
 https://placehold.co/
 
 eg:
+
+``compose
 AsyncImage(
                     model = ImageRequest.Builder(LocalContext.current)
                         .data(url)
