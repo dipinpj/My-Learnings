@@ -6,7 +6,7 @@ https://placehold.co/
 
 eg:
 
-``compose
+```Kotlin
 AsyncImage(
                     model = ImageRequest.Builder(LocalContext.current)
                         .data(url)
@@ -22,3 +22,4 @@ AsyncImage(
                     modifier = Modifier
                         .fillMaxSize()
                 )
+```
