@@ -1,5 +1,7 @@
 # My-Learnings
 
+## Placeholder for images
+
 Image placeholder with text, custom font, size etc
 
 https://placehold.co/
@@ -7,7 +9,7 @@ https://placehold.co/
 eg:
 
 ```Kotlin
-AsyncImage(
+              AsyncImage(
                     model = ImageRequest.Builder(LocalContext.current)
                         .data(url)
                         .crossfade(true)
